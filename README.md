@@ -20,7 +20,7 @@ Once requests has been imported, data can be received in the following format:
 This format will send data to be received by the microservice. Data must follow json package formatting with "name" and "image_url" string values provided.
 
 ## UML sequence diagram
-
+![UML sequence diagrma](/Images/
 
 
 
